@@ -1,0 +1,5 @@
+# served files
+public/
+
+# node modules
+node_modules/
